@@ -1,0 +1,34 @@
+=== Etat du système à Tue Aug  5 10:01:41 PM CEST 2025 ===
+
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/vdc        7.3G  5.2G  1.8G  75% /
+none            492K  4.0K  488K   1% /dev
+/dev/vdc        7.3G  5.2G  1.8G  75% /dev/kvm
+tmpfs           100K     0  100K   0% /dev/lxd
+run             1.4G   24K  1.4G   1% /dev/.cros_milestone
+9p              1.9G  1.3M  1.9G   1% /mnt/chromeos
+tmpfs           1.4G     0  1.4G   0% /mnt/external
+/dev/vdb         73M   71M     0 100% /opt/google/cros-containers
+fonts           3.0G  2.5G  427M  86% /usr/share/fonts/chromeos
+tmpfs           100K     0  100K   0% /dev/.lxd-mounts
+devtmpfs        1.4G     0  1.4G   0% /dev/tty
+tmpfs           1.4G     0  1.4G   0% /dev/shm
+tmpfs           550M  112K  550M   1% /run
+tmpfs           5.0M     0  5.0M   0% /run/lock
+tmpfs           4.0M     0  4.0M   0% /sys/fs/cgroup
+tmpfs           275M   20K  275M   1% /run/user/1000
+
+               total        used        free      shared  buff/cache   available
+Mem:           2.7Gi        73Mi       1.9Gi       156Ki       732Mi       2.6Gi
+Swap:             0B          0B          0B
+
++2025-08-05 22:01:41.4545416780 /home/_foleymcfly971/mon-projet-system-check/dev÷null
++2025-08-05 22:01:41.4525416780 /home/_foleymcfly971/mon-projet-system-check/system-check- .log
++2025-08-05 22:01:02.6005430300 /home/_foleymcfly971/mon-projet-system-check/system-check.sh
++2025-08-04 15:25:13.7323238860 /home/_foleymcfly971/mon-projet-system-check/README.md
++2025-08-04 15:18:50.8293360680 /home/_foleymcfly971/mon-projet-system-check/.git/logs/refs/heads/master
++2025-08-04 15:18:50.8283360680 /home/_foleymcfly971/mon-projet-system-check/.git/refs/heads/master
++2025-08-04 15:18:50.8283360680 /home/_foleymcfly971/mon-projet-system-check/.git/logs/HEAD
++2025-08-04 15:18:50.8243360680 /home/_foleymcfly971/mon-projet-system-check/.git/objects/e9/8a96ae4b2cd90feec2a53cc5527d0a6b2bf20b
++2025-08-04 15:18:50.8223360680 /home/_foleymcfly971/mon-projet-system-check/.git/COMMIT_EDITMSG
++2025-08-04 15:18:50.8213360680 /home/_foleymcfly971/mon-projet-system-check/.git/index
